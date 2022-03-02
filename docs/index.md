@@ -99,6 +99,10 @@ class NoSearchResultError(Exception):
 My code was able to be used in both PyCharm as well as the OS Command Shell as shown below.
 
 ![Code in PyCharm](https://github.com/Brocoe/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202022-03-01%20at%209.36.19%20PM.png "Code in PyCharm") 
+
+![Code in OS 1](https://github.com/Brocoe/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202022-03-01%20at%209.39.03%20PM.png "Code in OS 1") 
+
+![Code in OS 2](https://github.com/Brocoe/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202022-03-01%20at%209.39.39%20PM.png "Code in OS 2") 
  
  
 
