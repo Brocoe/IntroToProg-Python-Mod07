@@ -70,7 +70,8 @@ class ValidNameError(Exception):
 The markdown language is the language used by GitHub in order to format documents that are hosted on their website. The Markdown code is converted to HTML using a conversion process application called Jekyll. Since Markdown can be converted to HTML they can be used for GitHub webpages.
 
 ## Assignment
-	In the assignment this week I had to demonstrate my ability to work with binary files and structured error handling. Admittedly, I went a bit overboard and ended up developing a whole program that stores and employee database in a binary file as well as handles multiple errors to ensure that data is stored consistently. Below is an example of some code I used whereby a user can search for data and remove it from the database (or more accurately not add it to a new database). The code includes a structured error handling which will return a message if the data that is searched for is not found.
+
+In the assignment this week I had to demonstrate my ability to work with binary files and structured error handling. Admittedly, I went a bit overboard and ended up developing a whole program that stores and employee database in a binary file as well as handles multiple errors to ensure that data is stored consistently. Below is an example of some code I used whereby a user can search for data and remove it from the database (or more accurately not add it to a new database). The code includes a structured error handling which will return a message if the data that is searched for is not found.
 
 ```
 def DeleteData(lst,key,search):
@@ -103,5 +104,5 @@ My code was able to be used in both PyCharm as well as the OS Command Shell as s
 
 ## Conclusion
 
-	This week I learnt about binary files and how they are different from plain texts files. I learnt how to create custom error messages and how structured error handling can really improve my code. Finally, I learned about the markdown language and how to use it create a a very nice GitHub Web Page.
+This week I learnt about binary files and how they are different from plain texts files. I learnt how to create custom error messages and how structured error handling can really improve my code. Finally, I learned about the markdown language and how to use it create a a very nice GitHub Web Page.
 
