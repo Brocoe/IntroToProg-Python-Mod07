@@ -98,7 +98,7 @@ class NoSearchResultError(Exception):
 
 My code was able to be used in both PyCharm as well as the OS Command Shell as shown below.
 
- 
+![Code in PyCharm](https://github.com/Brocoe/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202022-03-01%20at%209.36.19%20PM.png "Code in PyCharm") 
  
  
 
