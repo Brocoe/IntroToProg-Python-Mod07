@@ -7,7 +7,7 @@ Assignment 07
 
 ## Introduction
 
-	This week I learnt about how to use built in python commands in customer functions and different type of file format. I also learnt some more advanced concepts on error handling and how to generate custom error messages to make things more readable. Finally, I reviewed the markdown language and GitHub and how to generate professional looking written documents.
+This week I learnt about how to use built in python commands in customer functions and different type of file format. I also learnt some more advanced concepts on error handling and how to generate custom error messages to make things more readable. Finally, I reviewed the markdown language and GitHub and how to generate professional looking written documents.
 
 ## Built-in Python Commands and Binary Files
 
