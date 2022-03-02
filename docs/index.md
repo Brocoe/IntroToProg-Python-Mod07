@@ -89,7 +89,8 @@ def DeleteData(lst,key,search):
     except NoSearchResultError as e:
         print(e)
     return new_lst
-
+```
+```
 class NoSearchResultError(Exception):
     def __str__(self):
         return 'There was no with data with this value in this column.\n' \
